@@ -1,0 +1,155 @@
+body {
+  text-align: center;
+  margin: 0;
+
+}
+
+.h1_type {
+  display: block;
+  position: relative;
+  top: 5px;
+ font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: rgb(94, 12, 12);
+  margin: 0;
+
+}
+
+
+.h2_type {
+  display: block;
+  position: relative;
+  font-family: 'Special Elite', cursive;
+  font-size: 50px;
+  margin: 0;
+  color: rgb(6, 46, 6);
+
+}
+
+.mountain {
+  position: relative;
+  bottom: 30px;
+  size: 500px;
+}
+
+.pahad {
+  height: 650px;
+  width: 650px;
+}
+
+
+.pahad_wala_right {
+  position: absolute;
+  right: 200px;
+  bottom: 200px;
+  height: 300px;
+}
+
+.h1_type:hover {
+  color: #cfaf55;
+}
+
+.h2_type:hover {
+  color:#ca5c17;
+}
+
+.suraj_right {
+  position: absolute;
+  left: 200px;
+  bottom: 260px;
+  height: 400px;
+}
+
+.left_aju_badal {
+  position: absolute;
+  top: 300px;
+  left: 20px;
+  height: 400px;
+}
+
+p {
+  margin: 0;
+}
+
+hr {
+  border: 1px solid black;
+  margin-bottom:0;
+  
+
+}
+
+.second-container {
+  position: relative;
+
+}
+
+.profile_pic {
+  position: relative;
+  top: 50px;
+  height: 450px;
+  width: 450px;
+  border-radius: 50%;
+
+}
+
+.container {
+  background-color: rgb(149, 241, 241);
+}
+
+.profile_para {
+  font-size: 30px;
+  font-family: 'Berkshire Swash', cursive;
+  color: #ca5c17;
+}
+
+.profile_para_2 {
+  color: #ca5c17;
+}
+.my_hobbies{
+  font-size:45px;
+  color:#03045E;
+  font-family: 'Special Elite', cursive;
+}
+
+.hobby_img{
+  border-radius:50%;
+  height:400px;
+  width:400px;
+}
+.C1{
+  color:#F24A72;
+}
+.dotted{
+  border: 4px dashed  black;
+  margin:auto;
+  width:8%;
+}
+.contact_icon{
+  
+  height:75px;
+  width:75px;
+}
+.endoc{
+  border:1px solid black;
+  margin: 0;
+}
+.space{
+  display: inline-block;
+  width:5%;
+}
+.container_three
+{
+  font-size:60px; 
+  font-family: 'Sacramento', cursive;
+  color:#F68989;
+  
+
+}
+.contact :hover{
+  height:100px;
+  width:100px;
+  
+}
+.footer{
+  font-family: 'Special Elite', cursive;
+}
